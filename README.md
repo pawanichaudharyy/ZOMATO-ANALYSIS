@@ -1,8 +1,10 @@
 # ZOMATO-ANALYSIS
-📊 Project Overview
+📊 Project Overview :
+
 This Zomato Restaurant Analysis project leverages a structured dataset containing a mix of geographical, operational, and customer feedback data. The primary goal is to derive actionable insights related to restaurant distribution, pricing strategies, customer preferences, and trends over time.
 
 📁 Dataset Insights
+
 The dataset includes:
 
 Geographical Information: Useful for mapping restaurants by city or location.
